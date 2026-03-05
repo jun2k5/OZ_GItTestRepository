@@ -116,4 +116,4 @@ USE_TZ = True
 
 STATIC_URL = 'static/'
 
-name = ["김병준"]
+name = ["김지원"]
